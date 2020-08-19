@@ -1,5 +1,5 @@
 ## YOLOv5-TensorRT
-最近收到一块Xavier-NX的板子，想在上面部署一些常用模型试试性能，所以这是YOLOv5网络的TensorRT移植版本。
+最近收到一块Xavier-NX的板子，想在上面部署一些常用模型试试性能，所以这是YOLOv5网络的TensorRT移植版本，参考仓库：https://github.com/TrojanXu/yolov5-tensorrt。
 
 ![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20200818103217.png)
 
